@@ -145,7 +145,8 @@ Isso ajuda a exibir caracteres especiais e acentos corretamente no terminal.
 - `departamentos.txt`: arquivo com os dados dos departamentos.
 - `README.md`: explicacao do projeto.
 
-## Autor
+## Autores
 
 Pedro Henrique Goes de Oliveira
+
 Cauê Rodrigues Campos
