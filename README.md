@@ -147,4 +147,5 @@ Isso ajuda a exibir caracteres especiais e acentos corretamente no terminal.
 
 ## Autor
 
-Pedro Goes
+Pedro Henrique Goes de Oliveira
+Cauê Rodrigues Campos
