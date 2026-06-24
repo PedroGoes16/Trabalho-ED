@@ -1,0 +1,9 @@
+# Pastas de configuracao/ambiente local
+.*/
+
+# Executaveis gerados pela compilacao
+*.exe
+
+# Arquivos intermediarios comuns de C/C++
+*.o
+*.obj
